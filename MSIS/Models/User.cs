@@ -24,5 +24,6 @@ namespace MSIS.Models
         public string Email { get; set; }
 
         public string Resume { get; set; }
+        public string LinkedIn { get; set; }
     }
 }
